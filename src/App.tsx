@@ -6,7 +6,7 @@ const App = ()=> {
     <>
       <div>
           <h1>Hello React App + AWS EC2</h1>
-          <h3>Thilina</h3>
+          <h3>Isuru</h3>
       </div>
     </>
   )
